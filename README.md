@@ -22,7 +22,7 @@
 - Follow other users
 - Check the list who are you following
 - Edit profile
-- Upload picture
+- Upload image
 
 
 <a href="https://ibb.co/dQnJGDD"><img src="https://i.ibb.co/55qxBLL/twitter1.jpg" alt="twitter1" border="0"></a>
