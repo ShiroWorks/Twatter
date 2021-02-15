@@ -1,6 +1,6 @@
 # Twatter
 
-This app uses the following tech:
+## This app uses the following tech:
 
 - React
 - TypeScript
@@ -13,7 +13,7 @@ This app uses the following tech:
 - Formik
 - React Router
 
-With this app you are able to:
+## With this app you are able to:
 
 - Tweet
 - Post comments to a tweet
@@ -22,4 +22,8 @@ With this app you are able to:
 - Follow other users
 - Check the list who are you following
 - Edit profile
-- Upload picture
+- Upload image
+
+
+<a href="https://ibb.co/dQnJGDD"><img src="https://i.ibb.co/55qxBLL/twitter1.jpg" alt="twitter1" border="0"></a>
+<a href="https://ibb.co/6rL09yy"><img src="https://i.ibb.co/DzTfc11/twitter2.jpg" alt="twitter2" border="0"></a>
