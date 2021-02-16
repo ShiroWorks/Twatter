@@ -15,6 +15,7 @@
 
 ## With this app you are able to:
 
+- Register
 - Tweet
 - Post comments to a tweet
 - Post comments to a comment
